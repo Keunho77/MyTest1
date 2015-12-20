@@ -1,9 +1,3 @@
-/*
- * Soundex.h
- *
- *  Created on: 2015. 12. 18.
- *      Author: mac
- */
 
 #ifndef SRC_SOUNDEX_H_
 #define SRC_SOUNDEX_H_
